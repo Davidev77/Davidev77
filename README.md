@@ -7,7 +7,7 @@
 I am a data analysis technician and currently i am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Javascript
-  - English (currently i am a B2 level, but i want to get the C2)
+  - English (currently i am a B2 level, but i want to get the C2. My mother tongue is spanish)
 - ✔ Ready to learn anything<br>
 - Outside tech, I love ⚽🏀 playing sports, 🎵 playing music, and 📖 reading books.
 - 📫 Reach out to me at: <a href="davidhome365@gmail.com">davidhome365@gmail.com</a>

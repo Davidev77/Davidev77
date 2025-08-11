@@ -6,7 +6,7 @@
 
 I am a data analysis technician and currently i am a computer engineering student, currently halfway through my degree. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Machine learning and coding
+  - Machine learning (main focus) and develop software (secondary focus)
   - English (currently i am a C1 level, but i want to get the C2. My mother tongue is spanish)
 - ✔ Ready to learn anything<br>
 - Outside tech, I love ⚽🏀 playing sports, 🎵 playing music, and 📖 reading books.
@@ -26,12 +26,17 @@ I am a data analysis technician and currently i am a computer engineering studen
  
 </span>
 
+
+
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+
 
 </span>
 

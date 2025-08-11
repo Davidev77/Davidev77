@@ -4,9 +4,9 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-I am a data analysis technician and currently i am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in back-end development. I love to learn and build something new, productive, innovative and creative.
+I am a data analysis technician and currently i am a computer engineering student, currently halfway through my degree. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Javascript
+  - Machine learning and coding
   - English (currently i am a C1 level, but i want to get the C2. My mother tongue is spanish)
 - ✔ Ready to learn anything<br>
 - Outside tech, I love ⚽🏀 playing sports, 🎵 playing music, and 📖 reading books.

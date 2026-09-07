@@ -3,14 +3,16 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
-I am a data analysis technician and currently i am a computer engineering student, currently halfway through my degree. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Develop software 
-  - English (currently i am a B2 level, but i want to get the C1. My mother tongue is spanish)
-- ✔ Ready to learn anything<br>
-- Outside tech, I love ⚽🏀 playing sports, 🎵 playing music, and 📖 reading books.
-- 📫 Reach out to me at: <a href="davidhome365@gmail.com">davidhome365@gmail.com</a>
+- 🎓 Computer Engineering student, focused on **Backend development with Java**
+- 🌱 Currently learning/improving:
+  - Backend development (Java, Spring Boot)
+  - English (B2 → aiming for C1 — native Spanish speaker)
+- 🛠️ What I've built so far:
+  - REST APIs with **Java & Spring Boot**
+  - Databases with **PostgreSQL**
+- ✔️ Always ready to learn something new
+- ⚽🏀 Outside tech: sports, 🎵 music, and 📖 books
+- 📫 Reach me at: [davidhome365@gmail.com](mailto:davidhome365@gmail.com)
 
 <br>
 
